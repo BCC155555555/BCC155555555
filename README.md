@@ -27,12 +27,12 @@ Welcome to my GitHub profile! I'm currently a second-year student pursuing a **B
 ---
 
 ## 🛠️ Projects
-Here are some of my favorite projects. Check out the links below to explore them:
+
 
 - **Anime Kakahu**: An Animie clothing website
   [Project Link](https://krishkkkk.github.io/AnimeKakahu1.github.io/Hoodies.html)
 
-- **Design for website**: A data structure assignment involving the creation of a BST and AVL tree with insert, delete, search, and traversal functionalities.  
+- **Design for website**: 
   [Project Link](https://www.figma.com/design/LjYCz7ogCCuKQLZTfib5rr/Pages?node-id=0-1&t=JRqAv4wFtwNUDZs7-1)
 
 
@@ -61,5 +61,4 @@ Feel free to reach out if you’d like to collaborate, discuss tech, or connect 
 
 Thanks for visiting my profile! 😊
 echnical skills with my passion for creative problem-solving.<br>
-📂 Work Experience: I work part-time as an office cleaner, which has helped me develop strong time management and organization skills.<br>
 📈 Interests: Web development, data structures, and learning new languages like Spanish and sign language.<br>
