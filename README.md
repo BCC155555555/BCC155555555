@@ -47,7 +47,7 @@ I'm deeply interested in web development and enjoy learning about new technologi
 ## 📫 Let's Connect
 Feel free to reach out if you’d like to collaborate, discuss tech, or connect professionally!  
 - [LinkedIn](https://www.linkedin.com/in/bailey-couchman-bb1a12320/)
-- [Email](mailto:your-Baileycouchman@hotmail.com)
+- [Email]Baileycouchman@hotmail.com
 
 ---
 
